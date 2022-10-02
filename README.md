@@ -1,1 +1,3 @@
 # endofdaybatch
+
+test
